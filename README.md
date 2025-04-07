@@ -1,5 +1,5 @@
 - 👋 Hi, I’m XianingY
-- 👀 I’m interested in Valorant and League of Legends.
+- 👀 I’m interested in League of Legends.
 
 
 <!---
