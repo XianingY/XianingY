@@ -1,6 +1,6 @@
 # Hi there, I'm Xianing YANG! 
 
-##  ^v^About Me
+##  About Me
 
 -  Born in **China**
 -  Currently working on **Database and Distributed System**
