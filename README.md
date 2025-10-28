@@ -7,9 +7,9 @@
 
 ## 🎓 Education
 
-- **M.S. in Computer Science** - Wuhan University 🇨🇳 (2026-2028)
-- **Short-term Program in Electrical and Computer Engineering** - National University of Singapore 🇸🇬 (2025-2026)
-- **B.S. in Computer Science** - Wuhan University 🇨🇳 (2022-2026)
+- **M.S. in Computer Science** - Wuhan University (2026-2028)
+- **Short-term Program in Electrical and Computer Engineering** - National University of Singapore (2025-2026)
+- **B.S. in Computer Science** - Wuhan University (2022-2026)
 
 ## 🛠️ Technical Stack
 
@@ -35,7 +35,7 @@
 
 <div align="center">
   
-![Xianing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XianingY&show_icons=true&theme=radical&hide_title=true)
+![Xianing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XianingY&show_icons=true&theme=radical&hide_title=true&cache_seconds=3600)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XianingY&layout=compact&theme=radical&hide_title=true)
 
