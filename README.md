@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Xianing+Yang;Database+and+Distributed+Systems+Engineer;Welcome+to+my+digital+space%21" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Xianing+Yang;Database+Engineer;Distributed+Systems+Engineer;Welcome+to+my+digital+space%21" /></div>
 
 ---
 
@@ -151,14 +151,6 @@ TypeScript ██████    70%
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XianingY)
-
-</div>
-
----
-
-<div align="center">
-
-**[Back to Top](#-hi-im-xianing-yang)**
 
 </div>
 
