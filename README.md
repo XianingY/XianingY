@@ -14,13 +14,13 @@
 
 ---
 
-## 🎯 Who Am I?
+## Who Am I?
 
 <div align="left">
 
 ```yaml
 name: Xianing Yang
-location: 🇨🇳 China
+location: China
 role: Database & Distributed Systems Engineer
 specialties:
   - Query Optimization
@@ -36,13 +36,13 @@ currently_exploring:
 
 ---
 
-## 🎓 Academic Journey
+## Academic Journey
 
 <table align="center">
 <tr>
 <td width="60%" valign="top">
 
-**Master's Track** 🚀
+**Master's Track**
 - **M.S. in Computer Science** | Wuhan University
 - **Duration:** 2026 - 2028
 - **Focus:** Advanced Database Systems & Distributed Computing
@@ -50,7 +50,7 @@ currently_exploring:
 </td>
 <td width="40%" valign="top">
 
-**Exchange Program** 🌏
+**Exchange Program**
 - **Short-term Program in ECE** | National University of Singapore
 - **Duration:** 2025 - 2026
 - **Focus:** Electrical & Computer Engineering
@@ -60,7 +60,7 @@ currently_exploring:
 <tr>
 <td colspan="2" align="center">
 
-**Bachelor's Degree** 🎓
+**Bachelor's Degree**
 - **B.S. in Computer Science** | Wuhan University | 2022 - 2026
 
 </td>
@@ -69,10 +69,10 @@ currently_exploring:
 
 ---
 
-## 💎 Core Expertise
+## Core Expertise
 
 <details>
-<summary><b>🧠 Programming Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,csharp,go,java,ts&theme=dark)](https://skillicons.dev)
@@ -89,7 +89,7 @@ TypeScript ██████    70%
 </details>
 
 <details>
-<summary><b>⚙️ Frameworks & Technologies</b></summary>
+<summary><b>Frameworks & Technologies</b></summary>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,docker,kubernetes,pyTorch,tensorflow,react,nodejs,express&theme=dark)](https://skillicons.dev)
@@ -103,7 +103,7 @@ TypeScript ██████    70%
 </details>
 
 <details>
-<summary><b>🗄️ Databases & Storage</b></summary>
+<summary><b>Databases & Storage</b></summary>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,influxdb&theme=dark)](https://skillicons.dev)
@@ -121,25 +121,19 @@ TypeScript ██████    70%
 
 ---
 
-## 🔬 Current Research & Focus
+## Current Research & Focus
 
-<div align="center">
+### Active Projects
 
-[![Research](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=research-projects&theme=radical&hide_border=true)](https://github.com/XianingY?tab=repositories)
-
-</div>
-
-### 🚀 Active Projects
-
-> 💡 **Database Query Optimizer** - Intelligent query planning using machine learning
+> **Database Query Optimizer** - Intelligent query planning using machine learning
 >
-> 🌐 **Distributed Transaction Coordinator** - Implementing two-phase commit protocol
+> **Distributed Transaction Coordinator** - Implementing two-phase commit protocol
 >
-> ⚡ **Real-time Analytics Pipeline** - Stream processing with Apache Kafka
+> **Real-time Analytics Pipeline** - Stream processing with Apache Kafka
 
 ---
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -149,7 +143,7 @@ TypeScript ██████    70%
 
 ---
 
-## 🏆 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -178,19 +172,19 @@ TypeScript ██████    70%
 
 ---
 
-## 🎨 Featured Repositories
+## Featured Repositories
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=database-optimizer&theme=radical)](https://github.com/XianingY/database-optimizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=distributed-systems&theme=radical)](https://github.com/XianingY/distributed-systems)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=distributed-consensus&theme=radical)](https://github.com/XianingY/distributed-consensus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=XianingY&theme=radical)](https://github.com/XianingY/XianingY)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=XianingY&theme=radical)](https://github.com/XianingY/XianingY)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=XianingY&theme=radical)](https://github.com/XianingY/XianingY)
 
 </div>
 
 ---
 
-## 🎯 What I'm Learning
+## What I'm Learning
 
 <div align="center">
 
@@ -208,7 +202,7 @@ graph LR
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -223,9 +217,7 @@ graph LR
 
 <div align="center">
 
-**[⬆ Back to Top](#-hi-im-xianing-yang)**
-
-![Visitor Count](https://profile-counter.glitch.me/XianingY/count.svg)
+**[Back to Top](#-hi-im-xianing-yang)**
 
 </div>
 
@@ -233,6 +225,6 @@ graph LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙏;Feel+free+to+explore+my+repos!;Let's+build+something+amazing+together!+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Feel+free+to+explore+my+repos!;Let's+build+something+amazing+together!" />
 
 </div>
