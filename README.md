@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Xianing+Yang;Database+%26+Distributed+Systems+Engineer;Welcome+to+my+digital+space!" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hello+World%21+I'm+Xianing+Yang;Database+and+Distributed+Systems+Engineer;Welcome+to+my+digital+space%21" /></div>
 
 ---
 
@@ -133,70 +133,11 @@ TypeScript ██████    70%
 
 ---
 
-## Contribution Graph
+## Most Used Languages
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XianingY&theme=github-compact&hide_border=true)
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XianingY&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-</td>
-<td align="center" width="50%">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XianingY&layout=compact&theme=radical&hide_title=false)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=XianingY&theme=radical&border_radius=10&border=2px,FF6B6B)
-
-</div>
-
----
-
-## Featured Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=XianingY&theme=radical)](https://github.com/XianingY/XianingY)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=XianingY&theme=radical)](https://github.com/XianingY/XianingY)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XianingY&repo=XianingY&theme=radical)](https://github.com/XianingY/XianingY)
-
-</div>
-
----
-
-## What I'm Learning
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Distributed Systems] --> B[Consensus Algorithms]
-    A --> C[Eventual Consistency]
-    D[Database Systems] --> E[Query Optimization]
-    D --> F[Index Structures]
-    G[Cloud Native] --> H[Service Mesh]
-    G --> I[Observability]
-```
 
 </div>
 
