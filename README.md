@@ -69,15 +69,6 @@ location: China
 
 </div>
 
----
-
-## Let's Connect
-
-<div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byzaantios@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XianingY)
-
-</div>
 
 ---
 
