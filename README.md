@@ -21,15 +21,6 @@
 ```yaml
 name: Xianing Yang
 location: China
-role: Database & Distributed Systems Engineer
-specialties:
-  - Query Optimization
-  - System Architecture
-  - Scalable Solutions
-currently_exploring:
-  - Distributed Consensus Algorithms
-  - Real-time Data Processing
-  - Cloud-Native Architecture
 ```
 
 </div>
@@ -69,69 +60,6 @@ currently_exploring:
 
 ---
 
-## Core Expertise
-
-<details>
-<summary><b>Programming Languages</b></summary>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,csharp,go,java,ts&theme=dark)](https://skillicons.dev)
-
-```
-C++      ████████████ 95%
-Python   ████████████ 90%
-C#       ███████████ 85%
-Go       ████████    80%
-Java     ███████     75%
-TypeScript ██████    70%
-```
-
-</details>
-
-<details>
-<summary><b>Frameworks & Technologies</b></summary>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,kubernetes,pyTorch,tensorflow,react,nodejs,express&theme=dark)](https://skillicons.dev)
-
-- **Backend:** .NET Core, Node.js, Express
-- **Containers:** Docker, Kubernetes, Helm
-- **ML/AI:** PyTorch, TensorFlow
-- **Frontend:** React, TypeScript
-- **Cloud:** AWS, Azure, GCP
-
-</details>
-
-<details>
-<summary><b>Databases & Storage</b></summary>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,influxdb&theme=dark)](https://skillicons.dev)
-
-| Database | Proficiency | Use Case |
-|----------|-------------|----------|
-| **MySQL** | 90% | OLTP, Transactional Systems |
-| **PostgreSQL** | 85% | Advanced Analytics |
-| **MongoDB** | 80% | Document Storage |
-| **Redis** | 88% | Caching & Sessions |
-| **Elasticsearch** | 75% | Search & Analytics |
-| **InfluxDB** | 70% | Time-Series Data |
-
-</details>
-
----
-
-## Current Research & Focus
-
-### Active Projects
-
-> **Database Query Optimizer** - Intelligent query planning using machine learning
->
-> **Distributed Transaction Coordinator** - Implementing two-phase commit protocol
->
-> **Real-time Analytics Pipeline** - Stream processing with Apache Kafka
-
----
 
 ## Most Used Languages
 
@@ -146,10 +74,7 @@ TypeScript ██████    70%
 ## Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourusername)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byzaantios@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XianingY)
 
 </div>
