@@ -65,7 +65,7 @@ location: China
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XianingY&layout=compact&theme=radical&hide_title=false)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XianingY&layout=compact&theme=radical)
 
 </div>
 
