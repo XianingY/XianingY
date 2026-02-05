@@ -62,12 +62,12 @@ hobbies: [Coding, Open Source]
 <table align="center">
 <tr>
 <td>
-  <!-- Used JustSong Mirror for stability in China -->
-  <img src="https://github-readme-stats.justsong.cn/api?username=XianingY&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" />
+  <!-- Trying official Vercel source -->
+  <img src="https://github-readme-stats.vercel.app/api?username=XianingY&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" />
 </td>
 <td>
-  <!-- Used JustSong Mirror for stability in China -->
-  <img src="https://github-readme-stats.justsong.cn/api/top-langs/?username=XianingY&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+  <!-- Trying official Vercel source -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XianingY&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
 </td>
 </tr>
 </table>
