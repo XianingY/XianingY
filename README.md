@@ -15,12 +15,13 @@
 
 <div align="left">
 
-```yaml
-user: Xianing Yang
-role: Vector Databases & AI Development
-location: China
-current_focus: [Vector Databases, AI Development]
-hobbies: [Coding, Open Source]
+```toml
+[about]
+name = "Xianing Yang"
+role = "Vector Databases & AI Development"
+location = "China"
+focus = ["Vector Databases", "AI Development"]
+hobbies = ["Coding", "Open Source"]
 ```
 
 </div>
