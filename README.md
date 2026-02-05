@@ -1,6 +1,3 @@
-# <div align="center"><img src="https://github.com/XianingY/XianingY/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" /></div>
-<!-- 注意：Snake Animation 需要等待 GitHub Action 运行成功生成 output 分支后才会显示。请在 Actions 页面手动触发一次或等待定时运行。 -->
-
 ---
 
 <div align="center">
