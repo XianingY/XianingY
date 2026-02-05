@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7AA2F7&background=00000000&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Xianing+Yang;Vector+Databases+%26+AI+Development;Building+the+impossible,+one+query+at+a+time." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7AA2F7&background=00000000&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Xianing+Yang;Vector+Databases+%26+AI+Development" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=XianingY&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=XianingY)
 [![Follow](https://img.shields.io/github/followers/XianingY?style=for-the-badge&logo=github&color=bb9af7&label=FOLLOWERS)](https://github.com/XianingY)
@@ -34,12 +34,10 @@ hobbies = ["Coding", "Open Source"]
 
 <!-- Shields.io badges are more stable in China compared to skillicons.dev -->
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 <br/>
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
