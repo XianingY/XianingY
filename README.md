@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7AA2F7&background=00000000&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Xianing+Yang;Database+%26+Distributed+Systems+Engineer;Building+the+impossible,+one+query+at+a+time." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7AA2F7&background=00000000&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Xianing+Yang;Vector+Databases+%26+AI+Development;Building+the+impossible,+one+query+at+a+time." />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=XianingY&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=XianingY)
 [![Follow](https://img.shields.io/github/followers/XianingY?style=for-the-badge&logo=github&color=bb9af7&label=FOLLOWERS)](https://github.com/XianingY)
@@ -17,9 +17,9 @@
 
 ```yaml
 user: Xianing Yang
-role: Database & Distributed Systems Engineer
+role: Vector Databases & AI Development
 location: China
-current_focus: [Advanced DB Systems, Distributed Computing]
+current_focus: [Vector Databases, AI Development]
 hobbies: [Coding, Open Source]
 ```
 
@@ -56,20 +56,6 @@ hobbies: [Coding, Open Source]
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td>
-  <!-- Trying official Vercel source -->
-  <img src="https://github-readme-stats.vercel.app/api?username=XianingY&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" />
-</td>
-<td>
-  <!-- Trying official Vercel source -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XianingY&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
-</td>
-</tr>
-</table>
-
-<!-- Streak stats usually works better, but if failed, can also be mirrored or removed. Keeping Heroku for now as it's often OK. -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XianingY&theme=tokyonight&hide_border=true&background=00000000" />
 
 </div>
@@ -82,7 +68,7 @@ hobbies: [Coding, Open Source]
 
 | **Period** | **Institution** | **Focus** |
 | :---: | :---: | :--- |
-| **2026 - 2028** | **Wuhan University (M.S.)** | Advanced Database Systems & Distributed Computing |
+| **2026 - 2028** | **Wuhan University (M.S.)** | Vector Databases & AI Development |
 | **2025 - 2026** | **National University of Singapore** | Electrical & Computer Engineering (Exchange) |
 | **2022 - 2026** | **Wuhan University (B.S.)** | Computer Science |
 
