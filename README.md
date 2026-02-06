@@ -69,36 +69,11 @@ hobbies = ["Coding", "Open Source"]
 
 <div align="center">
 
-<!-- Track 1: 2026-2028 (Master's) -->
-<div style="font-family: 'DM Sans', sans-serif; background-color: #0f172a; color: #f1f5f9; padding: 1.5rem; border-radius: 12px; max-width: 800px; margin: 0 auto 1rem;">
-  <div style="font-family: 'Outfit', sans-serif; font-size: 0.75rem; font-weight: 600; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.75rem; text-align: left;">Master's Degree</div>
-  <div style="display: flex; gap: 1rem; position: relative; padding-left: 1rem;">
-    <div style="flex: 1; min-width: 200px; background: rgba(30, 41, 59, 0.8); border: 1px solid rgba(148, 163, 184, 0.2); border-left: 3px solid #2dd4bf; border-radius: 10px; padding: 1rem; text-align: left;">
-      <span style="display: inline-block; font-family: 'Outfit', sans-serif; font-size: 0.7rem; font-weight: 600; background: rgba(45, 212, 191, 0.15); color: #2dd4bf; padding: 0.2rem 0.5rem; border-radius: 4px; margin-bottom: 0.5rem;">2026 - 2028</span>
-      <h3 style="font-family: 'Outfit', sans-serif; font-size: 1rem; font-weight: 600; margin: 0 0 0.3rem; color: #f1f5f9;">Wuhan University (M.S.)</h3>
-      <p style="font-size: 0.8rem; color: #94a3b8; margin: 0; line-height: 1.4;">Vector Databases & AI Development</p>
-    </div>
-  </div>
-</div>
-
-<!-- Track 2: 2022-2026 (Bachelor's + Exchange) - OVERLAPPED -->
-<div style="font-family: 'DM Sans', sans-serif; background-color: #0f172a; color: #f1f5f9; padding: 1.5rem; border-radius: 12px; max-width: 800px; margin: 0 auto;">
-  <div style="font-family: 'Outfit', sans-serif; font-size: 0.75rem; font-weight: 600; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.75rem; text-align: left;">Bachelor's Degree (with Exchange)</div>
-  <div style="display: flex; gap: 1rem; position: relative; padding-left: 1rem;">
-    <!-- Bachelor's -->
-    <div style="flex: 1; min-width: 200px; background: rgba(30, 41, 59, 0.8); border: 1px solid rgba(148, 163, 184, 0.2); border-left: 3px solid #bb9af7; border-radius: 10px; padding: 1rem; text-align: left;">
-      <span style="display: inline-block; font-family: 'Outfit', sans-serif; font-size: 0.7rem; font-weight: 600; background: rgba(187, 154, 247, 0.15); color: #bb9af7; padding: 0.2rem 0.5rem; border-radius: 4px; margin-bottom: 0.5rem;">2022 - 2026</span>
-      <h3 style="font-family: 'Outfit', sans-serif; font-size: 1rem; font-weight: 600; margin: 0 0 0.3rem; color: #f1f5f9;">Wuhan University (B.S.)</h3>
-      <p style="font-size: 0.8rem; color: #94a3b8; margin: 0; line-height: 1.4;">Computer Science</p>
-    </div>
-    <!-- Exchange (overlapped) -->
-    <div style="flex: 1; min-width: 200px; background: rgba(30, 41, 59, 0.8); border: 1px solid rgba(148, 163, 184, 0.2); border-left: 3px solid #f9c74f; border-radius: 10px; padding: 1rem; text-align: left;">
-      <span style="display: inline-block; font-family: 'Outfit', sans-serif; font-size: 0.7rem; font-weight: 600; background: rgba(252, 199, 79, 0.15); color: #f9c74f; padding: 0.2rem 0.5rem; border-radius: 4px; margin-bottom: 0.5rem;">2025 - 2026</span>
-      <h3 style="font-family: 'Outfit', sans-serif; font-size: 1rem; font-weight: 600; margin: 0 0 0.3rem; color: #f1f5f9;">National University of Singapore</h3>
-      <p style="font-size: 0.8rem; color: #94a3b8; margin: 0; line-height: 1.4;">Electrical & Computer Engineering (Exchange)</p>
-    </div>
-  </div>
-</div>
+| **Period** | **Institution** | **Focus** |
+| :---: | :---: | :--- |
+| **2026 - 2028** | **Wuhan University (M.S.)** | Vector Databases & AI Development |
+| **2022 - 2026** | **Wuhan University (B.S.)** | Computer Science |
+| **2025 - 2026** | **National University of Singapore** | Electrical & Computer Engineering (Exchange) |
 
 </div>
 
