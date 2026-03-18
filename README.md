@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7AA2F7&background=00000000&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Xianing+Yang;Vector+Databases+%26+AI+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7AA2F7&background=00000000&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Xianing+Yang;AI+Development" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=XianingY&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=XianingY)
 [![Follow](https://img.shields.io/github/followers/XianingY?style=for-the-badge&logo=github&color=bb9af7&label=FOLLOWERS)](https://github.com/XianingY)
