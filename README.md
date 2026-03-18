@@ -18,9 +18,8 @@
 ```toml
 [about]
 name = "Xianing Yang"
-role = "Vector Databases & AI Development"
-location = "China"
-focus = ["Vector Databases", "AI Development"]
+location = "Wuhan,China"
+focus = ["AI Development"]
 hobbies = ["Coding", "Open Source"]
 ```
 
@@ -38,7 +37,6 @@ hobbies = ["Coding", "Open Source"]
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 <br/>
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 <br/>
