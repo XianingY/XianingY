@@ -69,9 +69,9 @@ hobbies = ["Coding", "Open Source"]
 
 | **Period** | **Institution** | **Focus** |
 | :---: | :---: | :--- |
+| **2022 - 2025** | **Wuhan University (B.S.)** | Computer Science |
+| **2025 - 2026** | **National University of Singapore** | Electrical & Computer Engineering (Collaborate) |
 | **2026 - 2028** | **Wuhan University (M.S.)** | Vector Databases & AI Development |
-| **2022 - 2026** | **Wuhan University (B.S.)** | Computer Science |
-| **2025 - 2026** | **National University of Singapore** | Electrical & Computer Engineering (Exchange) |
 
 </div>
 
